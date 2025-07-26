@@ -33,7 +33,7 @@ Based on: [jellyfangs/messenger-bot-tutorial](https://github.com/jellyfangs/mess
    git clone https://github.com/benintw/Messenger-chatbot-with-AI.git fb_chatbot
    cd fb_chatbot
    ```
-2. **Install Python (recommended: Python 3.9+)**
+2. **Install Python (recommended: Python 3.11+)**
 3. **Install dependencies using uv:**
    ```bash
    pip install uv
@@ -84,7 +84,7 @@ OPENAI_API_KEY=your_openai_key
 ---
 
 ## Useful Links
-- [Get FB_PAGE_ACCESS_TOKEN](image-1.png)
+- ![Get FB_PAGE_ACCESS_TOKEN](image-1.png)
 - [Messenger API Settings](https://developers.facebook.com/apps/722282750688539/messenger/messenger_api_settings/)
 
 ---
