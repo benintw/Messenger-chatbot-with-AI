@@ -5,7 +5,7 @@
 
 A Facebook Messenger chatbot built with Flask and OpenAI. This bot enables automated conversations on Facebook pages, leveraging OpenAI's language models. Easily extensible for custom workflows and NLP tasks.
 
-![fb_chatbot](cover.jpeg)
+![fb_chatbot](cover.png)
 
 
 ## Features
